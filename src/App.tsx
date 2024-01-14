@@ -1,5 +1,4 @@
 import React from 'react';
-import { CopyBlock } from 'react-code-blocks';
 import ExampleComponent from "./components/ExampleComponent";
 import ExampleComponent2 from "./components/ExampleComponent2";
 import MyCodeBlock from "./components/MyCodeBlock";
