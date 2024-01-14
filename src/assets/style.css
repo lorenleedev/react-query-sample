@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #282c34;
+    color: white;
+    padding: 40px;
+}
+
+.App-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-bottom: 60px;
+}
+
+h2 {
+    color: #ff6767;
+}
+
+h3 {
+    color: #817fd5;
+}
+
+ol {
+    list-style-type: decimal;
+}
+
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid white;
+    padding: 12px;
+}
+
+.example-component {
+  background: #686868;
+  border-radius: 8px;
+  padding: 24px;
+}
