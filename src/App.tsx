@@ -208,7 +208,7 @@ const MutationExampleComponent = () => {
         <br/><br/>
         <h2>참고</h2>
         <p>chat GPT와 함께함</p>
-        <p>공식문서: <a href={"https://tanstack.com/query/latest/docs/react/quick-start"} target={"_blank"}>https://tanstack.com/query/latest/docs/react/quick-start</a></p>
+        <p>공식문서: <a href={"https://tanstack.com/query/latest/docs/react/quick-start"} target={"_blank"} rel="noreferrer">https://tanstack.com/query/latest/docs/react/quick-start</a></p>
       </main>
     </div>
   );

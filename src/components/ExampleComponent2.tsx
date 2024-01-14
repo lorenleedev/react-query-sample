@@ -1,6 +1,6 @@
 // src/components/ExampleComponent.tsx
 
-import React, {useState} from 'react';
+import React from 'react';
 import { useQuery } from 'react-query';
 
 interface Todo {
